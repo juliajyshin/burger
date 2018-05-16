@@ -1,7 +1,6 @@
 var express = require("express");
 var bodyParser = require("body-parser");
-var methodOverried = require("method-override");
-var mysql = require("mysql");
+ß
 var PORT = process.env.PORT || 3000;
 var app = express();
 
