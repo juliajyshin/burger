@@ -2,10 +2,9 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "Click Here to Visit my Website: [https://juliajyshin.github.io/burger/](https://juliajyshin.github.io/burger/)",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
   },
   "repository": {
     "type": "git",
