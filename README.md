@@ -6,7 +6,7 @@ Click Here to Visit my Website: [https://juliajyshin.github.io/burger/](https://
 
 Eat-Da-Burger! is a restaurant app that lets users input the names of the burgers they'd like to eat, then devour them. This application uses MVC design pattern; Node and MySQL to query and route data into app, and Handlebars to generate the HTML. 
 
-![An image of the app](assets/images/burger-app.png)
+![An image of the app](https://github.com/juliajyshin/burger/blob/master/public/assets/img/burger-app.png?raw=true)
 
 ## Technologies
 * Node.js
