@@ -1,0 +1,38 @@
+body {
+    background-color: #ffcc66;
+    margin: auto;
+    width: 90%;
+}
+
+.form-control {
+    margin: 15px;
+}
+
+img {
+    width: 300px;
+}
+
+.enter {
+    margin: 15px;
+}
+
+#top-bar {
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+
+pre {
+    margin: 1em 0;
+    white-space: normal;
+    /* padding: 9.5px; */
+
+}
+
+.btn-default {
+ margin: -4px;
+}
+
+
+
+
+
